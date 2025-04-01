@@ -20,10 +20,5 @@
 
   "engines": {
   "node": "20.x"
-},
-
-"devDependencies": {
-  "node-gyp": "^9.4.0"
 }
-
 }
